@@ -147,12 +147,11 @@ This project uses five separate datasets to analyze different aspects of busines
 
 <img width="1313" height="790" alt="image" src="https://github.com/user-attachments/assets/e3cedb9c-267e-40be-b563-335a2bbc4833" />
 
-
-*  Retention is highly inconsistent: many cohorts drop to zero quickly, while a few show sudden spikes at specific months.
+* Activity is concentrated early: most cohorts show their highest values in months 0–3, meaning user engagement is strongest right after signup.
   
-*  Some unusually large values (e.g., 6000, 17400) suggest data anomalies, aggregation errors, or mis-scaled metrics rather than true retention.
+* Mid-to-late spikes cluster in specific cohorts: e.g., 2024-04 (month 9), 2024-06 (month 7), 2024-08 (month 5), 2024-09 (month 4), and 2024-10 (month 3), suggesting re-engagement or campaign-driven returns at those points.
   
-*  Overall pattern indicates poor sustained retention with irregular reactivation or data quality issues skewing the heatmap.
+* Newer cohorts (late 2024) concentrate heavily in the first 1–2 months, indicating strong initial traction but limited long-term data yet.
 
 </details>
 
