@@ -101,7 +101,13 @@ This project uses five separate datasets to analyze different aspects of busines
   * Pro sits in the middle with moderate expectations and cost, while Basic users churn less due to lower commitment and simpler needs.
 
 
+ <img width="564" height="435" alt="image" src="https://github.com/user-attachments/assets/aa0e6b37-ca54-4339-8753-ea94c8751efb" />
 
+* These countries are largely located in highly developed, saturated SaaS markets (North America, Europe, and parts of APAC), where competition is intense.
+
+* Customers in these regions have many alternatives and higher expectations, making them more likely to switch providers.
+  
+* This combination of market maturity and choice drives higher observed churn rates.
 
   
 
