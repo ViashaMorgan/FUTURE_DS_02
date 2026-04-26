@@ -128,7 +128,16 @@ This project uses five separate datasets to analyze different aspects of busines
   * The small spike near very low lifetimes suggests early churn (customers leaving shortly after joining).
 
   * Towards the middle, there is a “critical churn window” where users reassess value after a few billing cycles.
+    
 
+<img width="580" height="432" alt="image" src="https://github.com/user-attachments/assets/169ed70f-3a0c-4eab-97b6-5e2bbef3dda9" />
+
+
+* Non-churned customers (0) have significantly higher tenure days, with a higher median and wider distribution.
+  
+* Churned customers (1) tend to have very low tenure, indicating they leave early in their lifecycle.
+  
+* Overall, there is a strong inverse relationship between tenure and churn: the longer a customer stays, the less likely they are to churn.
 
 
 </details>
