@@ -89,22 +89,15 @@ This project uses five separate datasets to analyze different aspects of busines
 
 ## 5.) Key Insights
 <details>
-  <summary>💰 Revenue Trends</summary>
-  <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/49218366-d000-40fe-832f-c59bbdeadc4a" />
-
-* Revenue fluctuates moderately in the first half of the year, with no clear upward trend.
-* From around August, there is a strong and consistent increase, peaking sharply in November.
-* December shows a significant drop, likely indicating seasonality 
+  <summary> Churn Patterns</summary>
+  <img width="556" height="512" alt="image" src="https://github.com/user-attachments/assets/94cdce94-ba00-4d93-a351-5333e74608b0" />
 
   
-<img width="1188" height="590" alt="image" src="https://github.com/user-attachments/assets/84c16316-edf2-4ac0-aefb-748041333e77" />
 
-* After the peak at year-end, revenue typically drops sharply, creating low spikes in the following months.
-* This is due to reduced consumer spending after heavy holiday purchases and tighter budgets in January.
-* Retail activity slows as demand normalizes and fewer promotions are offered.
-* These low spikes reflect a post-holiday correction before sales gradually stabilize again.
-* Revenue shows an overall upward trend from 2014 to 2018, indicating growth over time.
-* The highest sales occur toward late 2017, showing peak performance in the most recent period.
+
+  
+
+
 
 
 </details>
