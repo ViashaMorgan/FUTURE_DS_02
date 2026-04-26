@@ -193,6 +193,9 @@ This project uses five separate datasets to analyze different aspects of busines
 
 ## 7.) Business Recommendations
 
+High-risk customers (especially lower-tier plans and certain regions) should be identified early and supported through stronger onboarding and regular check-ins in the first 30–60 days. Low engagement and limited feature use are major drivers of churn, so improving onboarding, adding simple in-app guidance, and encouraging feature exploration can help increase retention. Customers experiencing more errors or frequent support interactions are more likely to leave, so fixing bugs, improving system stability, and strengthening self-service support are important. Early-stage drop-off is particularly significant, meaning structured onboarding and clear “first value” milestones are critical in the first 90 days. Overall, customers who use more features tend to stay longer, so encouraging deeper product usage and aligning plan value with user needs can further reduce churn.
+
+
 ## 8.) Outcome
 
 
