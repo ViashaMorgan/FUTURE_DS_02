@@ -35,41 +35,41 @@ This project uses five separate datasets to analyze different aspects of busines
 
 ## 3.) Analysis Performed
 
-🔹 Data Cleaning & Feature Engineering:
+3.1) Data Cleaning & Feature Engineering:
 
-   Handled missing values and duplicates
+   🔹 Handled missing values and duplicates
   
-   Created key variables such as churn flags, tenure, and engagement indicators
+  🔹 Created key variables such as churn flags, tenure, and engagement indicators
 
-🔹 Customer Behavior Aggregation
+3.2) Customer Behavior Aggregation
 
-   Transformed raw usage logs into customer-level metrics: Usage, Duration, Errors, Feature adoption
+  🔹 Transformed raw usage logs into customer-level metrics: Usage, Duration, Errors, Feature adoption
 
-🔹 KPI Analysis
+3.3) KPI Analysis
 
-   Evaluated core business metrics: Churn rate, Customer count, Average customer lifetime
+ 🔹  Evaluated core business metrics: Churn rate, Customer count, Average customer lifetime
 
-🔹 Churn Segmentation
+3.4) Churn Segmentation
 
-   Analyzed churn rates across: Plan tiers, Geographic regions
+  🔹 Analyzed churn rates across: Plan tiers, Geographic regions
 
-🔹 Customer Lifetime Analysis
+3.5) Customer Lifetime Analysis
 
-   Examined tenure distributions
-   Compared churned vs retained customers
+  🔹 Examined tenure distributions
+   🔹 Compared churned vs retained customers
 
-🔹 Cohort Retention Analysis
+3.6) Cohort Retention Analysis
 
-   Built cohort models based on signup month
-   Tracked retention trends over time
+  🔹 Built cohort models based on signup month
+   🔹 Tracked retention trends over time
 
-🔹 Retention Driver Analysis
+3.7)  Retention Driver Analysis
 
-   Identified relationships between churn and: Product usage, Error rates, Feature adoption
+  🔹 Identified relationships between churn and: Product usage, Error rates, Feature adoption
 
-🔹 Advanced Retention Modeling
+3.8) Advanced Retention Modeling
 
-   Explored interactions between: Feature usage, Retention rates, Revenue (MRR) across customer segments
+   🔹 Explored interactions between: Feature usage, Retention rates, Revenue (MRR) across customer segments
 
 ## 4.) Tech Stack
 
