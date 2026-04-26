@@ -13,23 +13,23 @@ This project uses five separate datasets to analyze different aspects of busines
 
 - ravenstack_accounts
   
-Contains customer-level information such as account details, industry, country, and signup date.
+  Contains customer-level information such as account details, industry, country, and signup date.
 
 - ravenstack_subscriptions
   
-Tracks subscription data including plan tier, pricing (MRR), billing cycles, and subscription status.
+  Tracks subscription data including plan tier, pricing (MRR), billing cycles, and subscription status.
 
 - ravenstack_churn_events
   
-Records churn occurrences, including churn dates and associated reasons where available.
+  Records churn occurrences, including churn dates and associated reasons where available.
 
 - ravenstack_feature_usage
   
-Captures product engagement metrics such as features used, usage frequency, duration, and error counts.
+  Captures product engagement metrics such as features used, usage frequency, duration, and error counts.
 
 - ravenstack_support_tickets
 
-Includes customer support interactions, enabling analysis of support volume, issues, and their relationship to churn.
+  Includes customer support interactions, enabling analysis of support volume, issues, and their relationship to churn.
 
 
 
