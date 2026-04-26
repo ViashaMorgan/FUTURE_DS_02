@@ -11,23 +11,23 @@ Source: Kaggle (https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-dat
 
 This project uses five separate datasets to analyze different aspects of business performance:
 
-- ravenstack_accounts
+🔹 ravenstack_accounts
   
   Contains customer-level information such as account details, industry, country, and signup date.
 
-- ravenstack_subscriptions
+🔹 ravenstack_subscriptions
   
   Tracks subscription data including plan tier, pricing (MRR), billing cycles, and subscription status.
 
-- ravenstack_churn_events
+🔹 ravenstack_churn_events
   
   Records churn occurrences, including churn dates and associated reasons where available.
 
-- ravenstack_feature_usage
+🔹 ravenstack_feature_usage
   
   Captures product engagement metrics such as features used, usage frequency, duration, and error counts.
 
-- ravenstack_support_tickets
+🔹 ravenstack_support_tickets
 
   Includes customer support interactions, enabling analysis of support volume, issues, and their relationship to churn.
 
