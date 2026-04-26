@@ -94,7 +94,13 @@ This project uses five separate datasets to analyze different aspects of busines
   <summary> Churn Patterns</summary>
   <img width="556" height="512" alt="image" src="https://github.com/user-attachments/assets/94cdce94-ba00-4d93-a351-5333e74608b0" />
 
-  
+  * Enterprise churn is highest because these customers have higher expectations, more complex use cases, and lower tolerance for performance gaps or missing features.
+    
+  * They are also more price-sensitive at scale, so any perceived drop in ROI leads to cancellations more quickly than lower-tier users.
+    
+  * Pro sits in the middle with moderate expectations and cost, while Basic users churn less due to lower commitment and simpler needs.
+
+
 
 
   
