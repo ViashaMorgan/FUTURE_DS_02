@@ -39,7 +39,7 @@ This project uses five separate datasets to analyze different aspects of busines
 
    🔹 Handled missing values and duplicates
   
-  🔹 Created key variables such as churn flags, tenure, and engagement indicators
+   🔹 Created key variables such as churn flags, tenure, and engagement indicators
 
 3.2) Customer Behavior Aggregation
 
@@ -56,12 +56,14 @@ This project uses five separate datasets to analyze different aspects of busines
 3.5) Customer Lifetime Analysis
 
   🔹 Examined tenure distributions
-   🔹 Compared churned vs retained customers
+  
+  🔹 Compared churned vs retained customers
 
 3.6) Cohort Retention Analysis
 
   🔹 Built cohort models based on signup month
-   🔹 Tracked retention trends over time
+  
+  🔹 Tracked retention trends over time
 
 3.7)  Retention Driver Analysis
 
