@@ -154,6 +154,7 @@ This project uses five separate datasets to analyze different aspects of busines
 * Newer cohorts (late 2024) concentrate heavily in the first 1–2 months, indicating strong initial traction but limited long-term data yet.
 
 
+
 <img width="1030" height="547" alt="image" src="https://github.com/user-attachments/assets/b29e3553-b07b-470e-bbcb-7d612d9ebec5" />
 
 
@@ -162,20 +163,30 @@ This project uses five separate datasets to analyze different aspects of busines
 * Enterprise customers (larger bubbles) tend to use more features and show slightly higher retention than Basic/Pro users.
 
 * Driving feature adoption—especially among higher-value customers—likely improves retention, so focus on onboarding and feature discovery.
+
+
+<img width="1288" height="339" alt="image" src="https://github.com/user-attachments/assets/7f418957-9ed9-42c4-9abb-2a6b1b31c4b6" />
+
+
+* Users who churn (1) show slightly higher errors and more variability, but the distributions largely overlap with non-churners (0).
+  
+* Total usage is fairly similar between both groups, with no strong separation—suggesting usage alone isn’t a clear churn driver.
+  
+* Feature usage is slightly lower for churned users, hinting that less engagement with features may be linked to higher churn.
+
+
+
+
+
+  
 </details>
 
 
 
 
 
-
-
-
-
 ## 6.) Dashboard Preview
-> Link to the dashboard: https://app.powerbi.com/links/s8iPDCh_7r?ctid=4b1b908c-5582-4377-ba07-a36d65e34934&pbi_source=linkShare
-
-<img width="1046" height="1052" alt="image" src="https://github.com/user-attachments/assets/12d416e3-c4b9-4c9f-acb0-836da6c1ff2b" />
+> Link to the dashboard: 
 
 
 
