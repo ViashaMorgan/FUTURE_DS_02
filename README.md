@@ -153,6 +153,15 @@ This project uses five separate datasets to analyze different aspects of busines
   
 * Newer cohorts (late 2024) concentrate heavily in the first 1–2 months, indicating strong initial traction but limited long-term data yet.
 
+
+<img width="1030" height="547" alt="image" src="https://github.com/user-attachments/assets/b29e3553-b07b-470e-bbcb-7d612d9ebec5" />
+
+
+* Retention generally increases as the number of features used goes up, though the relationship isn’t perfectly linear.
+  
+* Enterprise customers (larger bubbles) tend to use more features and show slightly higher retention than Basic/Pro users.
+
+* Driving feature adoption—especially among higher-value customers—likely improves retention, so focus on onboarding and feature discovery.
 </details>
 
 
