@@ -186,8 +186,9 @@ This project uses five separate datasets to analyze different aspects of busines
 
 
 ## 6.) Dashboard Preview
-> Link to the dashboard: 
+> Link to the dashboard: https://app.powerbi.com/links/ZYNsIljxdx?ctid=4b1b908c-5582-4377-ba07-a36d65e34934&pbi_source=linkShare
 
+<img width="1242" height="1042" alt="image" src="https://github.com/user-attachments/assets/4c51b07b-a60f-4acc-b517-fffec1cf5fba" />
 
 
 ## 7.) Business Recommendations
