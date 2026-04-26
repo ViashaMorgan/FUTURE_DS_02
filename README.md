@@ -119,6 +119,18 @@ This project uses five separate datasets to analyze different aspects of busines
 <details>
   <summary> Customer Lifetime Trends</summary>
 
+  <img width="552" height="435" alt="image" src="https://github.com/user-attachments/assets/f27b300b-0cf4-4b5c-bd24-13b632262cdb" />
+
+  * The distribution is heavily right-skewed, showing most customers have relatively short lifetimes with a sharp peak around the mid-range.
+    
+  * There’s a noticeable drop-off as lifetime increases, indicating fewer long-term customers and gradual attrition over time. 
+    
+  * The small spike near very low lifetimes suggests early churn (customers leaving shortly after joining).
+
+  * Towards the middle, there is a “critical churn window” where users reassess value after a few billing cycles.
+
+
+
 </details>
 
 <details>
