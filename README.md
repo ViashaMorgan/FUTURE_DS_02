@@ -108,17 +108,12 @@ This project uses five separate datasets to analyze different aspects of busines
 </details>
 
 <details>
-  <summary>🏷 Cohort Retention Analysis</summary>
+  <summary> Cohort Retention Analysis</summary>
 
 
 </details>
 
-<details>
-  <summary> Retention Drivers: Why Customers Churn</summary>
-  
 
-
-</details>
 
 
 
@@ -134,11 +129,10 @@ This project uses five separate datasets to analyze different aspects of busines
 
 
 ## 7.) Business Recommendations
-Based on the analysis, a business should prioritize strengthening its presence in the United Kingdom, which generates the vast majority of revenue, while simultaneously reducing geographic risk by expanding into underperforming but promising markets such as Germany and France. A dual product strategy is recommended: maintain consistent availability of high-demand, low-cost items (such as office supplies) to sustain sales volume, while actively promoting high-value products like technology and equipment to maximize revenue. Additionally, the business should focus on retaining and nurturing high-frequency, high-spending customers through targeted marketing and loyalty initiatives, as these customers contribute disproportionately to total revenue. Finally, underperforming categories should be reviewed and optimized through pricing, bundling, or promotional strategies to improve overall profitability and ensure balanced growth.
 
 ## 8.) Outcome
 
-This project successfully transformed raw sales and transaction data into meaningful business insights through structured analysis and visualization. Key revenue drivers, high-performing products, and dominant markets were identified, along with clear patterns in customer purchasing behavior. The analysis highlights opportunities for revenue growth, improved customer targeting, and better product strategy. Overall, the project demonstrates how data analytics can be effectively applied to support informed decision-making and drive business performance in a real-world context.
+
 
 ## 👤 Author
 
