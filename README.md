@@ -162,7 +162,7 @@ This project uses five separate datasets to analyze different aspects of busines
   
 * Enterprise customers (larger bubbles) tend to use more features and show slightly higher retention than Basic/Pro users.
 
-* Driving feature adoption—especially among higher-value customers—likely improves retention, so focus on onboarding and feature discovery.
+* Driving feature adoption, especially among higher-value customer likely improves retention, meaning there should be a focus on onboarding and feature discovery.
 
 
 <img width="1288" height="339" alt="image" src="https://github.com/user-attachments/assets/7f418957-9ed9-42c4-9abb-2a6b1b31c4b6" />
@@ -197,14 +197,6 @@ High-risk customers (especially lower-tier plans and certain regions) should be 
 
 
 ## 8.) Outcome
-
-Good — then your **Outcome** should not repeat *what to do*. It should focus on **what you discovered and what the analysis achieved**.
-
-Here’s a clean, short version that is clearly distinct from recommendations:
-
----
-
-## 📊 Outcome
 
 This analysis revealed clear behavioural patterns behind customer churn, with early-stage users, lower-tier plans, and low-engagement customers showing the highest likelihood to churn. Cohort and segmentation analysis confirmed that retention is strongest among users with deeper and more consistent product usage. The project successfully transformed raw customer and usage data into actionable insights, highlighting key risk segments and measurable differences in retention behaviour across plans, regions, and usage levels.
 
