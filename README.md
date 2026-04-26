@@ -198,6 +198,15 @@ High-risk customers (especially lower-tier plans and certain regions) should be 
 
 ## 8.) Outcome
 
+Good — then your **Outcome** should not repeat *what to do*. It should focus on **what you discovered and what the analysis achieved**.
+
+Here’s a clean, short version that is clearly distinct from recommendations:
+
+---
+
+## 📊 Outcome
+
+This analysis revealed clear behavioural patterns behind customer churn, with early-stage users, lower-tier plans, and low-engagement customers showing the highest likelihood to churn. Cohort and segmentation analysis confirmed that retention is strongest among users with deeper and more consistent product usage. The project successfully transformed raw customer and usage data into actionable insights, highlighting key risk segments and measurable differences in retention behaviour across plans, regions, and usage levels.
 
 
 ## 👤 Author
