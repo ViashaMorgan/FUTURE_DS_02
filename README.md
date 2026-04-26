@@ -103,84 +103,26 @@ This project uses five separate datasets to analyze different aspects of busines
 </details>
 
 <details>
-  <summary>🌍 Regional Performance</summary>
-<img width="636" height="659" alt="image" src="https://github.com/user-attachments/assets/14cd1943-2ade-4188-a93b-271959fafb50" />
-  
-* We can see that the UK generates the most revenue
-* The top revenue-generating countries are all located in Western Europe, indicating a strong regional concentration.
-* These markets are high-income and well-developed, leading to higher consumer spending and consistent demand.
-* Their close proximity and strong logistics networks also support efficient distribution and higher sales volumes.
+  <summary> Customer Lifetime Trends</summary>
 
 </details>
 
 <details>
-  <summary>🏷 Category Performance</summary>
-<img width="578" height="522" alt="image" src="https://github.com/user-attachments/assets/2868b45b-aa09-4fb0-9e67-912bc4509414" />
-  
-* We have indicated the high-value categories
-* Technology leads in both sales and profit, making it the most financially rewarding category overall.
-* Furniture has strong sales but extremely low profit, suggesting high costs or heavy discounting that significantly eats into margins.
-* Office Supplies performs solidly and has a healthier profit relative to its sales, making it the most efficient category.
-* Across all three categories, the gap between sales and profit is very large, indicating high operating or product costs that the business should look to address.
-
-</details>
-
-<details>
-  <summary>🛍 Product Performance</summary>
-  <img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/b6eb50b1-531c-4443-a3eb-e235cf73dc76" />
-
-* Office supplies are the top quantity of items sold  
-* Higher quantity sold relates to more popular products
-* More popular products don't automatically correlate to higher profits
-
-<img width="839" height="838" alt="image" src="https://github.com/user-attachments/assets/55937b93-8803-4b83-8c83-19804d3d0e8b" />
-
-* The Canon ImageCLASS 2200 Advanced Copier dominates sales at ~62,000 units, nearly double the second-highest product (Fellowes PB500 at ~28,000), suggesting it's a flagship or heavily promoted item.
-* Products 3–10 form a tightly clustered mid-tier ranging from ~17,000–23,000 units, indicating relatively uniform demand across the remaining office equipment categories.
-* The steep drop-off after the top two products reveals a classic long-tail distribution, meaning the business relies heavily on a small number of high-performing specific products to drive overall revenue.
-* Copiers and printers are the most in-demand product category, likely because they are essential, high-use machines in most office environments.
-
-<img width="839" height="838" alt="image" src="https://github.com/user-attachments/assets/672db723-6a27-4c2f-b326-620ed1eeb2bf" />
-
-* The Canon imageCLASS 2200 Advanced Copier dominates profit, showing that high-end office technology is the strongest profit driver in this set.
-* There’s a noticeable drop after the top product, but mid-tier tech like binding machines, laser printers, and inkjet printers still generate solid profits (~4K–8K), indicating steady demand for essential office equipment.
-* Lower-profit items are still mostly technology products (shredders, label printers, headsets) , suggesting the business relies heavily on a broad range of office tech, even if individual profits are smaller.
+  <summary>🏷 Cohort Retention Analysis</summary>
 
 
 </details>
 
 <details>
-  <summary>👥 Customer Behavior</summary>
-<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/d0d77972-6f80-4699-914a-1c196290e9e4" />
+  <summary> Retention Drivers: Why Customers Churn</summary>
   
-* Most customers generate relatively low revenue while a small number contribute very high amounts.
-* The majority of customers fall within the lower revenue range (roughly under 5,000), indicating a large base of low-to-mid spenders.
-* There are a few extreme high-value customers (outliers) reaching up to ~25,000, suggesting the presence of key high-revenue contributors.
 
-<img width="540" height="374" alt="image" src="https://github.com/user-attachments/assets/1f4607d0-21fa-4da8-a4dc-985ffe92f9c7" />
-
-* Repeat customers significantly outnumber one-time customers, with nearly 800 compared to around 200–300 for the latter.  
-* This suggests strong customer loyalty or effective retention strategies, as the majority of purchases come from returning buyers.
-* To further grow revenue, consider focusing on converting the existing one-time customers into repeat buyers through targeted engagement or loyalty programs.
 
 </details>
 
-<details>
-  <summary>🔁 Purchase Behavior</summary>
-<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/2df09323-0330-4edc-b2f0-eb7785cec5f9" />
-  
-* Most customers make only 4-7 purchases and very few reaching 8 or more.
-* This indicates a large base of low-frequency buyers, which aligns with the earlier finding that repeat customers exist but don't purchase often.
-* To increase customer lifetime value, consider implementing engagement tactics like loyalty rewards or personalized offers to encourage more frequent purchases.
-
-  <img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/6581e9af-00bd-4cd0-bcc0-c0ee11f9c726" />
-  
-* This scatter plot likely shows a positive correlation, where customers with more orders tend to generate higher revenue, supporting the value of retaining frequent buyers.
-* Any outliers, such as high revenue with low orders or low revenue with high orders could reveal unique customer segments like bulk purchasers or discount-driven shoppers.
-* Adding a trend line or correlation coefficient would help quantify the strength of the relationship and guide strategies for increasing order frequency.
 
 
-</details>
+
 
 
 
