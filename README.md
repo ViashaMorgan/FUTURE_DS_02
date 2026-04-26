@@ -145,6 +145,14 @@ This project uses five separate datasets to analyze different aspects of busines
 <details>
   <summary> Cohort Retention Analysis</summary>
 
+<img width="1313" height="790" alt="image" src="https://github.com/user-attachments/assets/e3cedb9c-267e-40be-b563-335a2bbc4833" />
+
+
+*  Retention is highly inconsistent: many cohorts drop to zero quickly, while a few show sudden spikes at specific months.
+  
+*  Some unusually large values (e.g., 6000, 17400) suggest data anomalies, aggregation errors, or mis-scaled metrics rather than true retention.
+  
+*  Overall pattern indicates poor sustained retention with irregular reactivation or data quality issues skewing the heatmap.
 
 </details>
 
